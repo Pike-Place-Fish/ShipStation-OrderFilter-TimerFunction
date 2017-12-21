@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ignia.ShipStation.Functions", "Ignia.ShipStation.Functions\Ignia.ShipStation.Functions.csproj", "{6917D80D-59C2-42D7-9B08-E18B44219EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6917D80D-59C2-42D7-9B08-E18B44219EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6917D80D-59C2-42D7-9B08-E18B44219EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6917D80D-59C2-42D7-9B08-E18B44219EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6917D80D-59C2-42D7-9B08-E18B44219EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254E5975-F14A-4279-B92A-E9D5FC53D9A3}
+	EndGlobalSection
+EndGlobal
